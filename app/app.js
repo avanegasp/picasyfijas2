@@ -90,5 +90,5 @@ console.log ("este es mi número random " + numRandom)
 
 
     $('.play').on('click', function(){
-      window.location = "https://avanegasp.github.io/rompecabezas1/";
+      window.location = "https://avanegasp.github.io/picasyfijas2/";
     })
